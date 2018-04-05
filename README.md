@@ -1,1 +1,2 @@
 # misc
+#starting up
